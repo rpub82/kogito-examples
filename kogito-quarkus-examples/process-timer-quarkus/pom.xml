@@ -62,12 +62,10 @@
       <artifactId>kogito-addons-quarkus-jobs-management</artifactId>
     </dependency>
     <!-- uncomment this to enable persistence for kogito -->
-    <!--
     <dependency>
       <groupId>org.kie.kogito</groupId>
       <artifactId>kogito-addons-quarkus-persistence-infinispan</artifactId>
     </dependency>
-    -->
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-smallrye-health</artifactId>
